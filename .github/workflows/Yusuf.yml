@@ -36,9 +36,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo My name is $var_name
+
   Job2:
     runs-on: ubuntu-latest
-   #fsjfsff
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
