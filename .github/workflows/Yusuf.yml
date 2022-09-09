@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo This job is running in the scnd  workflow.
+          echo This job is running in the second workflow.
