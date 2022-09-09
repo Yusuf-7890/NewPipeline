@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: FirstWorkflow
+name: SwecondWorkflow
 
 # Controls when the workflow will run
 on:
@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo This job is running in the second workflow.
+          echo This job is running in the scnd  workflow.
