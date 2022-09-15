@@ -51,4 +51,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo This is the decond job.
+          echo ffor runer
