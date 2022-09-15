@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: SwecondWorkflow
+name: SecondWorkflow
 env:
  msg : "I am form variable"
  var_name : 80
